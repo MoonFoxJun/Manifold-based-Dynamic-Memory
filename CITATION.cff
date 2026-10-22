@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Manifold-based Dynamic Memory (MDM): extractive recall over a message archive"
+version: 0.1.0
+date-released: 2026-10-22
+license: GPL-3.0-or-later
+authors:
+  - name: "The Manifold-based Dynamic Memory authors"
+keywords:
+  - information retrieval
+  - long-term memory
+  - model context protocol
+  - TF-IDF
+  - manifold learning
+abstract: >-
+  Extractive recall over a personal message archive: keyword queries return a
+  short, ordered, de-duplicated passage with provenance pointers, with honest
+  refusal when no relevant memory exists, and an MCP server exposing recall,
+  remember and stats. The shipped index is a lexical baseline; the
+  manifold-based representation is the research target.

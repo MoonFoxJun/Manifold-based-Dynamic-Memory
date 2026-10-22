@@ -1,0 +1,18 @@
+{
+  "title": "Manifold-based Dynamic Memory (MDM): extractive recall over a message archive",
+  "description": "Extractive recall over a personal message archive. Keyword queries return a short, ordered, de-duplicated passage with provenance pointers, with honest refusal when no relevant memory exists, and an MCP server exposing recall/remember/stats. The shipped index is a lexical baseline (TF-IDF over character bigrams); the manifold-based representation is the research target. No data is included in the repository.",
+  "upload_type": "software",
+  "license": "GPL-3.0-or-later",
+  "access_right": "open",
+  "creators": [
+    {"name": "The Manifold-based Dynamic Memory authors"}
+  ],
+  "keywords": [
+    "information retrieval",
+    "long-term memory",
+    "model context protocol",
+    "TF-IDF",
+    "MMR",
+    "manifold learning"
+  ]
+}

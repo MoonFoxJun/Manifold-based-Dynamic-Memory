@@ -1,0 +1,9 @@
+# archive data (never commit personal conversations)
+data/
+# runtime state and caches
+.state/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
