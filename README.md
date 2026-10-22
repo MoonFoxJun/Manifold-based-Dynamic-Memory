@@ -1,5 +1,7 @@
 # Manifold-based Dynamic Memory (MDM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23557069.svg)](https://doi.org/10.5281/zenodo.23557069)
+
 *Extractive recall over a message archive.*
 
 Given a handful of keywords, return a short, ordered, de-duplicated passage —
@@ -185,11 +187,12 @@ run_mcp.py                # MCP entry point for clients
 If you use this in academic work, cite the archived release:
 
 ```
-Zenodo DOI: 10.5281/zenodo.XXXXXXX   (replace after the first release)
+MoonFoxJun. (2026). Manifold-based Dynamic Memory (MDM): extractive recall
+over a message archive (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.23557069
 ```
 
-A `CITATION.cff` is included; its `doi` field is a placeholder until the
-release is archived by Zenodo.
+A `CITATION.cff` is included with the same DOI, so GitHub's "Cite this
+repository" button produces a ready-to-paste reference.
 
 ## License
 

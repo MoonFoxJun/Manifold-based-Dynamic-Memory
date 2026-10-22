@@ -5,6 +5,7 @@ title: "Manifold-based Dynamic Memory (MDM): extractive recall over a message ar
 version: 0.1.0
 date-released: 2026-10-22
 license: GPL-3.0-or-later
+doi: 10.5281/zenodo.23557069
 authors:
   - name: "The Manifold-based Dynamic Memory authors"
 keywords:
